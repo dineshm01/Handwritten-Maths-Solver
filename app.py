@@ -1,9 +1,3 @@
-pip install streamlit
-pip install opencv-python
-pip install pytesseract
-pip install sympy
-pip install streamlit-drawable-canvas
-
 import streamlit as st
 import cv2
 import pytesseract
